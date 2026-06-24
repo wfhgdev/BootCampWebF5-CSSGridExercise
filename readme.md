@@ -2,12 +2,12 @@
 
 Este proyecto es un ejercicio práctico de maquetación web enfocado en el dominio de **CSS Grid Layout**, desarrollado para el módulo **FrontEnd: HTML5 & CSS3** en **JM Factoria 5**.
 
-El objetivo principal es replicar con total fidelidad la estructura y el esquema de diseño base proporcionado en el archivo de Figma, aplicando estilos propios basados en la temática de Ositos Cariñositos.
+El objetivo principal es replicar con total fidelidad la estructura y el esquema de diseño base proporcionado en el archivo de Figma, aplicando estilos propios basados en la temática de Care Bears.
 
 ## 🚀 Demo en Github Pages
 
 Puedes ver el resultado del proyecto desplegado aquí:
-🔗 **[Ver Demo en GitHub Pages](https://TU_USUARIO.github.io/TU_REPOSITORIO/)**
+🔗 **[Ver en GitHub Pages](https://wfhgdev.github.io/BootCampWebF5-CSSGridExercise/)**
 
 ---
 
@@ -31,6 +31,5 @@ Puedes ver el resultado del proyecto desplegado aquí:
 
 ```text
 ├── index.html          # Estructura HTML principal
-├── css/
-│   └── styles.css      # Hoja de estilos con la configuración de CSS Grid
-└── assets/             # Recursos visuales (Imágenes de los Care Bears, iconos, etc.)
+├── index.css           # Hoja de estilos con la configuración de CSS Grid         
+└── images/             # Recursos visuales (Imágenes de los Care Bears, iconos, etc.)
