@@ -22,8 +22,8 @@ Puedes ver el resultado del proyecto desplegado aquí:
 
 * **HTML5** - Para la estructura semántica del contenido.
 * **CSS3 (Grid Layout)** - Para el diseño, posicionamiento y estilos visuales.
-* **Figma** - Como herramienta de inspección de diseño e interfaz de usuario.
-    * [Enlace al diseño de referencia en Figma](https://www.figma.com/file/YKCHtJHfeCBGto7YsxWPOE/CSS-Grid---Care-Bears)
+* **Figma** - Referencia de diseño e interfaz de usuario.
+    ![Texto descriptivo de tu imagen](images/layout.png)
 
 ---
 
