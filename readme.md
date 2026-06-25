@@ -1,4 +1,4 @@
-# CSS Grid Exercise - Care Bears
+# CSS Grid Exercise - Care Bears by William Hernández
 
 Este proyecto es un ejercicio práctico de maquetación web enfocado en el dominio de **CSS Grid Layout**, desarrollado para el módulo **FrontEnd: HTML5 & CSS3** en **JM Factoria 5**.
 
@@ -23,6 +23,7 @@ Puedes ver el resultado del proyecto desplegado aquí:
 * **HTML5** - Para la estructura semántica del contenido.
 * **CSS3 (Grid Layout)** - Para el diseño, posicionamiento y estilos visuales.
 * **Figma** - Referencia de diseño e interfaz de usuario.
+
     ![Texto descriptivo de tu imagen](images/layout.png)
 
 ---
